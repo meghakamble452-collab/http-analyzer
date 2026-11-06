@@ -1,0 +1,25 @@
+Name: www.serials.ws 
+
+Serial: 
+88339-32625A46766503BC
+88821-92129A0A8F901D68
+88377-6F37B8488D852A72
+88747-1A3D0AD0E8B97D22
+88991-3AEEB1A79459B2C5
+88799-14F0FE09B43930C0
+88510-6CFCA9EE186F9****
+
+
+ZIP file password: ieinspector
+
+
+{"code":"00","result":"Success","metadata":"","data":"aA/emwt+EOqjolQIaN3jn4m1o85rfoiSMgtPwPUn7Uw="}
+
+
+
+3784986f2490e118.wpu.as.pyproxy.io:16666:SAFESTBC1-zone-resi-region-in:SAFEACCC1
+
+
+3784986f2490e118.wpu.as.pyproxy.io:16666:SWIFTER1-zone-resi-region-in:JWEETER33
+
+https://apicp2.phonepe.com/apis/payments/v1/transactions/U2306121615398607943407/requests/ICI600a4ef4529a425a80d5d621d5f3735a/decline
